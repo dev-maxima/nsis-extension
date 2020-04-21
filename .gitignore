@@ -1,5 +1,4 @@
 *.vsix
 /.vscode
 nsis/nsis/
-nsis/ps_modules/
 /.vs
